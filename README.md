@@ -12,3 +12,6 @@ A developer-first banking infrastructure landing page built according to the **C
 - HTML5 / Tailwind CSS v4
 - Responsive CSS Grid & Flexbox
 - Modern Fintech UI / UX patterns
+
+## Result
+<img width="1366" height="1928" alt="screencapture-127-0-0-1-3000-index-html-2026-11-03-11_13_37" src="https://github.com/user-attachments/assets/8c722862-3fb5-4476-a0b2-63e517018530" />
